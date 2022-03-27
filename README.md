@@ -1,2 +1,2 @@
 # ChinookDataset
-Answered business questions using SQL and Visualization
+Answered business questions on Chinook Dataset using SQL and Data Visualization tools: PowerBI and Tableau
